@@ -12,3 +12,5 @@ Celem projektu jest zaimplementowanie modelu uczenia maszynowego, który będzie
 `dataset_arff.csv` - zestaw danych w formacie ARFF pobrany z [OpenML](https://www.openml.org/search?type=data&id=43549&sort=runs&status=active)
 
 `dataset_pokemon.csv` - zestaw danych przekonwertowany do CSV
+
+`dataset_clear.csv` - zestaw danych po usunięciu kolumn `Pokedex_No` oraz `Name` (nie mają znaczącej wartości do modelu)
