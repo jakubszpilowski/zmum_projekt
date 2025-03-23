@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+dataset/std
+dataset/min_max
+dataset/*_data.csv
+raport
